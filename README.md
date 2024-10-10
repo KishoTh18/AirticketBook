@@ -22,8 +22,8 @@ Follow these steps to get the AirTicketBooking System project up and running on 
 ### 3. Configure the Database
 
 - Open your web browser and go to [PHPMyAdmin](http://localhost/phpmyadmin).
-- Create a new database named `airticketdb`.
-- Import the `airticketdb.sql` file located inside the `SQL file` folder of the extracted contents.
+- Create a new database named `ofbms.db`.
+- Import the `ofbms.db.sql` file located inside the `SQL file` folder of the extracted contents.
 
 ### 4. Run the Application
 
